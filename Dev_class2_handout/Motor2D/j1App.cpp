@@ -68,6 +68,15 @@ bool j1App::Awake()
 	// the top tag inside the xml_node property created in the last TODO
 	// ---
 
+	char * buffer;
+	fs->Load("XML_file/XML_file/config.xml", &buffer);
+	if (doc.load_buffer(buffer, strlen(buffer))==0) {
+		node= doc.first_child();
+	}
+	else {
+		LOG("Error loading in buffer");
+	}
+	RELEASE(buffer);
 	p2List_item<j1Module*>* item;
 	item = modules.start;
 
