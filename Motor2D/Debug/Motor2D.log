@@ -1,0 +1,26 @@
+﻿  pugixml.cpp
+  j1Window.cpp
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.h(53): warning C4042: 'file': has bad storage class
+  j1Textures.cpp
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.h(53): warning C4042: 'file': has bad storage class
+  j1Render.cpp
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.h(53): warning C4042: 'file': has bad storage class
+  p2Log.cpp
+  j1Scene.cpp
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.h(53): warning C4042: 'file': has bad storage class
+  j1Input.cpp
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.h(53): warning C4042: 'file': has bad storage class
+  j1Audio.cpp
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.h(53): warning C4042: 'file': has bad storage class
+  j1App.cpp
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.h(53): warning C4042: 'file': has bad storage class
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.cpp(170): warning C4042: 'file': has bad storage class
+  j1Main.cpp
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.h(53): warning C4042: 'file': has bad storage class
+  j1FileSystem.cpp
+c:\users\rogerbd1\desktop\dev_class3_handout\dv-handout02\motor2d\j1app.h(53): warning C4042: 'file': has bad storage class
+  Generating Code...
+     Creating library C:\Users\rogerbd1\Desktop\Dev_class3_handout\DV-Handout02\Debug\Motor 2D.lib and object C:\Users\rogerbd1\Desktop\Dev_class3_handout\DV-Handout02\Debug\Motor 2D.exp
+physfs.lib(physfs.obj) : warning LNK4217: locally defined symbol _sprintf imported in function _PHYSFS_setSaneConfig
+  Motor2D.vcxproj -> C:\Users\rogerbd1\Desktop\Dev_class3_handout\DV-Handout02\Debug\Motor 2D.exe
+  Motor2D.vcxproj -> C:\Users\rogerbd1\Desktop\Dev_class3_handout\DV-Handout02\Debug\Motor 2D.pdb (Full PDB)
